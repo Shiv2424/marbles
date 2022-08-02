@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marbles", "marbles\marbles.csproj", "{3E7BEF47-1DFC-45E8-987A-D418D0C5A015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7BEF47-1DFC-45E8-987A-D418D0C5A015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7BEF47-1DFC-45E8-987A-D418D0C5A015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7BEF47-1DFC-45E8-987A-D418D0C5A015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7BEF47-1DFC-45E8-987A-D418D0C5A015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4799BAF2-8420-4CE9-9E8D-86DEE9FC3250}
+	EndGlobalSection
+EndGlobal
