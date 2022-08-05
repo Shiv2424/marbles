@@ -1,0 +1,15 @@
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\bin\Debug\net6.0\marbles.exe
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.csproj.AssemblyReference.cache
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.AssemblyInfoInputs.cache
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.AssemblyInfo.cs
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.csproj.CoreCompileInputs.cache
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.dll
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\refint\Marbles.dll
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.pdb
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\bin\Debug\net6.0\Marbles.deps.json
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\bin\Debug\net6.0\Marbles.runtimeconfig.json
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\bin\Debug\net6.0\Marbles.dll
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\bin\Debug\net6.0\Marbles.pdb
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\Marbles.genruntimeconfig.cache
+C:\Users\sraj6\OneDrive\Documents\GitHub\marbles\marbles\marbles\obj\Debug\net6.0\ref\Marbles.dll

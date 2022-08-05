@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\Marbletest\\Marbletest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj",
+        "projectName": "Marbles",
+        "projectPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj",
+        "packagesPath": "C:\\Users\\sraj6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sraj6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\Marbletest\\Marbletest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\Marbletest\\Marbletest.csproj",
+        "projectName": "Marbletest",
+        "projectPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\Marbletest\\Marbletest.csproj",
+        "packagesPath": "C:\\Users\\sraj6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\Marbletest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sraj6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj": {
+                "projectPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

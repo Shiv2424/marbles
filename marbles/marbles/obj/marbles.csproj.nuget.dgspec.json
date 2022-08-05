@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\marbles.csproj": {}
+    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\marbles.csproj": {
+    "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\marbles.csproj",
-        "projectName": "marbles",
-        "projectPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\marbles.csproj",
+        "projectUniqueName": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj",
+        "projectName": "Marbles",
+        "projectPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\Marbles.csproj",
         "packagesPath": "C:\\Users\\sraj6\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sraj6\\OneDrive\\Documents\\GitHub\\marbles\\marbles\\marbles\\obj\\",
         "projectStyle": "PackageReference",
